@@ -1,1 +1,1 @@
-It's a basic School Management System website
+This website provides a fundamental system for managing schools.
