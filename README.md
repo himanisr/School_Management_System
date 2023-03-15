@@ -1,7 +1,7 @@
 This website provides a fundamental system for managing schools.
 
 Output:
-![Web capture_16-3-2023_0816_localhost](https://user-images.githubusercontent.com/61662784/225421117-1454360b-526e-4261-8e11-1396495ab609.jpeg | width=70)
+
 <img src="https://user-images.githubusercontent.com/61662784/225421117-1454360b-526e-4261-8e11-1396495ab609.jpeg" width=50% height=50%>
 
 ![Web capture_16-3-2023_097_localhost](https://user-images.githubusercontent.com/61662784/225421130-f525cd6b-6cbd-4aec-9700-52e3cde933f7.jpeg)
